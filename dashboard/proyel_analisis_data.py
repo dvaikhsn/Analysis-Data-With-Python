@@ -6,7 +6,7 @@ import seaborn as sns
 # Fungsi untuk memuat data
 @st.cache_data
 def load_data():
-    day_df = pd.read_csv("day.csv")
+    day_df = pd.read_csv("dashboard/day.csv")
     day_df['dteday'] = pd.to_datetime(day_df['dteday'], dayfirst=True)
 
     # Menambahkan kolom after_holiday
