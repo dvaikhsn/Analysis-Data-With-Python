@@ -1,1 +1,1 @@
-https://bike-sharing-dashboard-dvaikhsn.streamlit.app/
+https://dvaikhsn.streamlit.app/
