@@ -18,7 +18,7 @@ st.title('🚲 Bike-Sharing Demand Analytics Dashboard')
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("day.csv")  # Pastikan path file relatif dari lokasi script
+    df = pd.read_csv("dashboard/day.csv")
     df['dteday'] = pd.to_datetime(df['dteday'], dayfirst=True)
     df['day_type'] = np.where(df['holiday'] == 1, 'Holiday',
                               np.where(df['workingday'] == 1, 'Working Day', 'Weekend'))
