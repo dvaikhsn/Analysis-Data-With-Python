@@ -27,5 +27,5 @@ import seaborn as sns
 ```
 3. Run Streamlit App
 ```
-streamlit run dashboard/proyek_analisis_data.py
+streamlit run dashboard.py
 ```
