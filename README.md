@@ -1,7 +1,28 @@
-# Bike Sharing Dashboard
+## 🚲Bike-Sharing Analytics
+**Bike Sharing** adalah proyek kelas analisis data dengan python dari Coding Camp by DBS Foundation. Proyek ini mencakup visualisasi data, analisis pola penggunaan, dan pengguna dapat berinteraksi dengan data secara real-time menggunakan dashboard berbasis Streamlit.
 
-## Deskripsi Proyek
-**Bike Sharing Dashboard** adalah proyek kelas analisis data dengan python dari Coding Camp by DBS Foundation. Proyek ini mencakup visualisasi data, analisis pola penggunaan, dan pengguna dapat berinteraksi dengan data secara real-time menggunakan dashboard berbasis Streamlit.
+## 📊 Fitur Utama
+
+- **Visualisasi Data**: Menyediakan berbagai jenis grafik seperti histogram, boxplot, scatter plot, dan lainnya untuk memahami distribusi dan hubungan antar variabel.
+- **Statistik Deskriptif**: Menampilkan statistik dasar seperti mean, median, modus, dan standar deviasi untuk setiap kolom dalam dataset.
+- **Filter Interaktif**: Pengguna dapat memfilter data berdasarkan kriteria tertentu untuk analisis yang lebih mendalam.
+- **Antarmuka Pengguna yang Ramah**: Dibangun dengan Streamlit untuk memastikan pengalaman pengguna yang intuitif dan responsif.
+
+## 🧠 Insight yang Diperoleh
+
+Melalui aplikasi ini, pengguna dapat dengan mudah:
+
+- Mengidentifikasi tren dan pola dalam data.
+- Menemukan outlier atau nilai yang tidak biasa.
+- Memahami distribusi data dan hubungan antar variabel.
+- Mengambil keputusan berdasarkan data yang telah dianalisis.
+
+# 🌐 Akses Dashboard Analisis Data Interaktif
+
+Anda dapat mengakses aplikasi dashboard interaktif yang telah saya bangun menggunakan Python dan Streamlit melalui tautan berikut:
+
+🔗 **[Klik di sini untuk membuka dashboard](https://dvaikhsn.streamlit.app/)**
+
 
 ## Setup Enviroment Google Colab
 
