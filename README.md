@@ -6,11 +6,10 @@
 - **Visualisasi Data**: Menyediakan berbagai jenis grafik seperti histogram, boxplot, scatter plot, dan lainnya untuk memahami distribusi dan hubungan antar variabel.
 - **Statistik Deskriptif**: Menampilkan statistik dasar seperti mean, median, modus, dan standar deviasi untuk setiap kolom dalam dataset.
 - **Filter Interaktif**: Pengguna dapat memfilter data berdasarkan kriteria tertentu untuk analisis yang lebih mendalam.
-- **Antarmuka Pengguna yang Ramah**: Dibangun dengan Streamlit untuk memastikan pengalaman pengguna yang intuitif dan responsif.
 
 ## 🧠 Insight yang Diperoleh
 
-Melalui aplikasi ini, pengguna dapat dengan mudah:
+Melalui aplikasi ini, pengguna dapat:
 
 - Mengidentifikasi tren dan pola dalam data.
 - Menemukan outlier atau nilai yang tidak biasa.
